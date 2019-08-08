@@ -11,5 +11,5 @@ $('#submit-form').on('click', function(e) {
     data: $form.serializeObject() //Form serialize takes the html inputs and values and transforms it into a json object
     //ex for blank fields: jqxhr.data = {Account_ID: "", School_Name: "", Market_Area: "", Student_Name: "", Gift: "", …}
   });
-  console.log();
+  console.log($form.serializeObject());
 });
