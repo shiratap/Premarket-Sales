@@ -8,7 +8,8 @@ $('#submit-form').on('click', function(e) {
     url: url,
     method: 'GET',
     dataType: 'json',
-    data: $form.serializeObject()
+    data: $form.serializeObject() //Form serialize takes the html inputs and values and transforms it into a json object
+    //ex for blank fields: jqxhr.data = {Account_ID: "", School_Name: "", Market_Area: "", Student_Name: "", Gift: "", …}
   });
-  console.log(jqxhr);
+  console.log();
 });
