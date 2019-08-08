@@ -1,0 +1,14 @@
+main {
+  height: 400px;
+  widows: 100px;
+  background-color: beige;
+}
+main input {
+  margin: 5px;
+}
+main button {
+  margin: 5px;
+}
+main label {
+  margin: 8px;
+}

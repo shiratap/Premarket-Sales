@@ -1,0 +1,8 @@
+footer {
+  color: black;
+  background-color: gray;
+  height: 50px;
+  width: 100%;
+  text-align: center;
+  line-height: 50px;
+}
