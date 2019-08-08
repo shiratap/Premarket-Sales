@@ -2,9 +2,16 @@
 
 ## Resources
 
+- [The spreadsheet the app is linked up to](https://docs.google.com/spreadsheets/d/1MRQyjL9cvOr8lu_k8xSmvAsCH1pM2ESxxKAgfadYc9U/edit?usp=sharing)
+
 - [Tutorial 1 (Submitting html form to google sheets without google forms)](https://medium.com/@dmccoy/how-to-submit-an-html-form-to-google-sheets-without-google-forms-b833952cc175)
 
-## All the input fields
+- [Tutorial 2 (if the first doesn't work)](https://github.com/jamiewilson/form-to-google-sheets)
+
+## Old HTML file
+
+Will be returning to this file once I have a better understanding of the scripts
+and how it's all married together.
 
 ```html
 <!DOCTYPE html>
